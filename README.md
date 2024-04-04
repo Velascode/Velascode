@@ -1,8 +1,8 @@
 ## Oi! Eu sou o .... Wallace!  😄
 <div>
   <a href="https://github.com/Velascode">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Velascode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Velascode&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Velascode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Velascode&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Velasco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
